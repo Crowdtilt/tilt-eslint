@@ -2,7 +2,7 @@
   "author": "John Haugeland",
   "name": "tilt-eslint",
   "description": "A small pre-configured eslint for tilt",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "repository": {
     "url": "https://github.com/Crowdtilt/tilt-eslint.git"
   },

@@ -1,0 +1,24 @@
+{
+  "author": "John Haugeland",
+  "name": "tilt-eslint",
+  "description": "A small pre-configured eslint for tilt",
+  "version": "0.1.0",
+  "repository": {
+    "url": "https://github.com/Crowdtilt/tilt-eslint.git"
+  },
+  "dependencies": {
+    "eslint": "*",
+    "gulp-shell": "*"
+  },
+  "devDependencies": {
+    "gulp": "*",
+    "gulp-eslint": "*"
+  },
+  "peerDependencies": {
+    "gulp-eslint": "*"
+  },
+  "main": "eslint.js",
+  "engines": {
+    "node": "*"
+  }
+}
